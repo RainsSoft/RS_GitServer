@@ -1,0 +1,11 @@
+
+RSGit/bin/Debug/lib/linux/x86_64/libgit2-dd2d538.so
+RSGit/bin/Debug/lib/osx/libgit2-dd2d538.dylib
+RSGit/bin/Debug/lib/win32/x64/git2-dd2d538.dll
+RSGit/bin/Debug/lib/win32/x64/git2-dd2d538.pdb
+RSGit/bin/Debug/lib/win32/x86/git2-dd2d538.dll
+RSGit/bin/Debug/lib/win32/x86/git2-dd2d538.pdb
+RSGit/bin/Debug/LibGit2Sharp.dll
+RSGit/bin/Debug/LibGit2Sharp.dll.config
+*.pdb
+RSGit/bin/Debug/LibGit2Sharp.xml
