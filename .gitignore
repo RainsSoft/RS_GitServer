@@ -45,3 +45,7 @@ RSGitServer/obj/Debug/RSGitServer.csproj.AssemblyReference.cache
 RSGitServer/obj/Debug/RSGitServer.csproj.CoreCompileInputs.cache
 RSGitServer/obj/Debug/RSGitServer.csproj.FileListAbsolute.txt
 RSGitServer/obj/Debug/RSGitServer.exe
+RSGitClient/bin/Debug/pylib1/client/9c09e118-401c-420b-8190-45604e44416f/a.txt
+RSGitClient/bin/Debug/pylib1/client/9c09e118-401c-420b-8190-45604e44416f/b.txt
+RSGitClient/bin/Debug/pylib1/client/d3bf0c1e-4e7d-4aa3-8a23-b84f83991ef8/a.txt
+RSGitClient/bin/Debug/pylib1/client/d3bf0c1e-4e7d-4aa3-8a23-b84f83991ef8/b.txt
