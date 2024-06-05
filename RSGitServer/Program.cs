@@ -31,7 +31,7 @@ namespace RSGitServer
 #endif
            
             //new GrammarLine("Start git as a git", new[] { "daemon", "<port>" }, (git, args) => { new MiniGitServer(git).StartDaemon(int.Parse(args[1])); }),
-            var git = new MiniGit(new DirectoryInfo(args[0]).FullName);
+            var git = new RSGit.MiniGit(new DirectoryInfo(args[0]).FullName);
             git.InitializeRepository();
            
             var gitServer= new MiniGitServer(git);

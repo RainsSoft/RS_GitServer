@@ -1,4 +1,4 @@
-
+packages/
 RSGit/bin/Debug/lib/linux/x86_64/libgit2-dd2d538.so
 RSGit/bin/Debug/lib/osx/libgit2-dd2d538.dylib
 RSGit/bin/Debug/lib/win32/x64/git2-dd2d538.dll
@@ -72,3 +72,7 @@ Bin/lib/linux/x86_64/libgit2-dd2d538.so
 Bin/lib/osx/libgit2-dd2d538.dylib
 Bin/lib/win32/x64/git2-dd2d538.dll
 Bin/lib/win32/x86/git2-dd2d538.dll
+RSGitClient/obj/Release/build.force
+RSGitServer/obj/Debug/build.force
+RSGitServer/obj/Release/build.force
+.vs/RS_GitServer/FileContentIndex/ce94bd7d-7238-4a01-abba-096ad570fcfa.vsidx

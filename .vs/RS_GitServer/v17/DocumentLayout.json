@@ -3,153 +3,118 @@
   "WorkspaceRootPath": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|..\\RS_GitServer\\RSGitServer\\RSGitServer.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|..\\RS_GitServer\\RSGitServer\\RSGitServer.csproj|solutionrelative:rsgitserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RSGit||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RSGitClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RSGitServer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\minigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\minigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|RSGit\\RSGit.csproj|solutionrelative:rsgit\\minigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\minigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\minigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|RSGitServer\\RSGitServer.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitserver\\repobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|RSGitServer\\RSGitServer.csproj|solutionrelative:rsgitserver\\repobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitclient\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgitclient\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|solutionrelative:rsgitclient\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|..\\RS_GitServer\\RSGitServer\\RSGitServer.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitserver\\minigitserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD0BE7C3-1161-4D70-9EAA-AF916A1CFC3B}|..\\RS_GitServer\\RSGitServer\\RSGitServer.csproj|solutionrelative:rsgitserver\\minigitserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\bytehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\bytehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\bytehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\minigitnetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\minigitnetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\minigitnetworkclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgitclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|solutionrelative:rsgitclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitclient\\repobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgitclient\\repobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|solutionrelative:rsgitclient\\repobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\command\\commandlinehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\command\\commandlinehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\command\\commandlinehandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\command\\grammarline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\command\\grammarline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\command\\grammarline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\head.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\differ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\differ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\differ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\remoteshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\remoteshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\remoteshandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\remote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\branchhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\branchhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\branchhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\gitpullresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\gitpullresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\gitpullresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\core\\gitpushbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\core\\gitpushbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\core\\gitpushbranchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\itreeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\itreeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\itreeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\id.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\commitnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\commitnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\commitnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\storage\\blobnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\storage\\blobnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\storage\\blobnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\net40ex\\net4ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\net40ex\\net4ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\net40ex\\net4ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\rsgit\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|..\\RS_GitServer\\RSGit\\RSGit.csproj|solutionrelative:rsgit\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\runnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\apparm.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D12EBD71-0464-46D0-8394-40BCFBA0A6F2}|..\\Runner.Service\\Windows\\RunnerService.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\runner.service\\windows\\runnerservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04D47691-348F-4A84-9BBC-BCB18325785B}|RSGit\\RSGit.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgit\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     },
     {
       "AbsoluteMoniker": "D:0:0:{386BCDEE-7E93-4F21-A5A4-614BA6174B28}|RSGitClient\\RSGitClient.csproj|c:\\work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\git\\rs_gitserver\\rsgitclient\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
@@ -165,11 +130,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MiniGit.cs",
+              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\MiniGit.cs",
+              "RelativeDocumentMoniker": "RSGit\\MiniGit.cs",
+              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\MiniGit.cs",
+              "RelativeToolTip": "RSGit\\MiniGit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:48:07.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RSGitServer",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\RSGitServer.csproj",
               "RelativeDocumentMoniker": "RSGitServer\\RSGitServer.csproj",
@@ -181,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RSGitClient",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitClient\\RSGitClient.csproj",
               "RelativeDocumentMoniker": "RSGitClient\\RSGitClient.csproj",
@@ -193,45 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RSGit",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\RSGit.csproj",
-              "RelativeDocumentMoniker": "RSGit\\RSGit.csproj",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\RSGit.csproj",
-              "RelativeToolTip": "RSGit\\RSGit.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-05T07:18:01.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\Program.cs",
-              "RelativeDocumentMoniker": "RSGitServer\\Program.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\Program.cs",
-              "RelativeToolTip": "RSGitServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:21:57.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepoBuilder.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\RepoBuilder.cs",
-              "RelativeDocumentMoniker": "RSGitServer\\RepoBuilder.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\RepoBuilder.cs",
-              "RelativeToolTip": "RSGitServer\\RepoBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T08:38:24.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MiniGit.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\MiniGit.cs",
               "RelativeDocumentMoniker": "RSGit\\MiniGit.cs",
@@ -239,12 +178,11 @@
               "RelativeToolTip": "RSGit\\MiniGit.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAawC4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:29:59.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:29:59.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Test.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitClient\\Test.cs",
               "RelativeDocumentMoniker": "RSGitClient\\Test.cs",
@@ -252,25 +190,11 @@
               "RelativeToolTip": "RSGitClient\\Test.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAPgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:02:53.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T09:02:53.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MiniGitServer.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\MiniGitServer.cs",
-              "RelativeDocumentMoniker": "RSGitServer\\MiniGitServer.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitServer\\MiniGitServer.cs",
-              "RelativeToolTip": "RSGitServer\\MiniGitServer.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA2wBAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T07:21:55.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ByteHelper.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\ByteHelper.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\ByteHelper.cs",
@@ -278,12 +202,11 @@
               "RelativeToolTip": "RSGit\\Core\\ByteHelper.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAA1wA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:35:46.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:35:46.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "MiniGitNetworkClient.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\MiniGitNetworkClient.cs",
               "RelativeDocumentMoniker": "RSGit\\MiniGitNetworkClient.cs",
@@ -291,12 +214,11 @@
               "RelativeToolTip": "RSGit\\MiniGitNetworkClient.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAAABIAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:45:56.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:45:56.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "RepoBuilder.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitClient\\RepoBuilder.cs",
               "RelativeDocumentMoniker": "RSGitClient\\RepoBuilder.cs",
@@ -304,12 +226,11 @@
               "RelativeToolTip": "RSGitClient\\RepoBuilder.cs",
               "ViewState": "AQIAAFQAAAAAAAAAAAAAAF8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:09:38.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T09:09:38.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGitClient\\Program.cs",
               "RelativeDocumentMoniker": "RSGitClient\\Program.cs",
@@ -317,12 +238,11 @@
               "RelativeToolTip": "RSGitClient\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:02:31.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T09:02:31.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "CommandLineHandling.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Command\\CommandLineHandling.cs",
               "RelativeDocumentMoniker": "RSGit\\Command\\CommandLineHandling.cs",
@@ -330,12 +250,11 @@
               "RelativeToolTip": "RSGit\\Command\\CommandLineHandling.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABQAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:29:23.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:29:23.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Program.cs",
               "RelativeDocumentMoniker": "RSGit\\Program.cs",
@@ -343,12 +262,11 @@
               "RelativeToolTip": "RSGit\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAEwA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:18:36.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:18:36.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "GrammarLine.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Command\\GrammarLine.cs",
               "RelativeDocumentMoniker": "RSGit\\Command\\GrammarLine.cs",
@@ -356,12 +274,11 @@
               "RelativeToolTip": "RSGit\\Command\\GrammarLine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:22:33.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:22:33.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Branch.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\Branch.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\Branch.cs",
@@ -369,12 +286,11 @@
               "RelativeToolTip": "RSGit\\Core\\Branch.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:37:46.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:37:46.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 13,
               "Title": "Head.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\Head.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\Head.cs",
@@ -382,12 +298,11 @@
               "RelativeToolTip": "RSGit\\Storage\\Head.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:41:19.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:41:19.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 14,
               "Title": "Differ.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\Differ.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\Differ.cs",
@@ -395,12 +310,11 @@
               "RelativeToolTip": "RSGit\\Core\\Differ.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:44:35.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:44:35.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "RemotesHandling.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\RemotesHandling.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\RemotesHandling.cs",
@@ -408,12 +322,11 @@
               "RelativeToolTip": "RSGit\\Core\\RemotesHandling.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:39:31.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:39:31.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "Remote.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\Remote.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\Remote.cs",
@@ -421,12 +334,11 @@
               "RelativeToolTip": "RSGit\\Core\\Remote.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:38:53.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:38:53.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "BranchHandling.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\BranchHandling.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\BranchHandling.cs",
@@ -434,12 +346,11 @@
               "RelativeToolTip": "RSGit\\Core\\BranchHandling.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:35:06.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:35:06.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "GitPullResponse.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\GitPullResponse.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\GitPullResponse.cs",
@@ -447,12 +358,11 @@
               "RelativeToolTip": "RSGit\\Core\\GitPullResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:45:31.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:45:31.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "GitPushBranchRequest.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Core\\GitPushBranchRequest.cs",
               "RelativeDocumentMoniker": "RSGit\\Core\\GitPushBranchRequest.cs",
@@ -460,12 +370,11 @@
               "RelativeToolTip": "RSGit\\Core\\GitPushBranchRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:45:03.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:45:03.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 20,
               "Title": "ITreeLine.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\ITreeLine.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\ITreeLine.cs",
@@ -473,12 +382,11 @@
               "RelativeToolTip": "RSGit\\Storage\\ITreeLine.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAgwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:42:42.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:42:42.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 21,
               "Title": "Storage.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\Storage.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\Storage.cs",
@@ -486,12 +394,11 @@
               "RelativeToolTip": "RSGit\\Storage\\Storage.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:37:15.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:37:15.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "TreeNode.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\TreeNode.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\TreeNode.cs",
@@ -499,12 +406,11 @@
               "RelativeToolTip": "RSGit\\Storage\\TreeNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:41:51.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:41:51.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 23,
               "Title": "Fileinfo.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\Fileinfo.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\Fileinfo.cs",
@@ -512,12 +418,11 @@
               "RelativeToolTip": "RSGit\\Storage\\Fileinfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:36:15.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:36:15.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
               "Title": "Id.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\Id.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\Id.cs",
@@ -525,12 +430,11 @@
               "RelativeToolTip": "RSGit\\Storage\\Id.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:36:40.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:36:40.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 25,
               "Title": "CommitNode.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\CommitNode.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\CommitNode.cs",
@@ -538,12 +442,11 @@
               "RelativeToolTip": "RSGit\\Storage\\CommitNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:43:18.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:43:18.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 26,
               "Title": "BlobNode.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Storage\\BlobNode.cs",
               "RelativeDocumentMoniker": "RSGit\\Storage\\BlobNode.cs",
@@ -551,12 +454,11 @@
               "RelativeToolTip": "RSGit\\Storage\\BlobNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:43:50.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:43:50.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 27,
               "Title": "Net4Ex.cs",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\Net40Ex\\Net4Ex.cs",
               "RelativeDocumentMoniker": "RSGit\\Net40Ex\\Net4Ex.cs",
@@ -564,12 +466,11 @@
               "RelativeToolTip": "RSGit\\Net40Ex\\Net4Ex.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T03:19:29.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T03:19:29.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 28,
               "Title": "app.config",
               "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\RS_GitServer\\RSGit\\app.config",
               "RelativeDocumentMoniker": "RSGit\\app.config",
@@ -577,98 +478,7 @@
               "RelativeToolTip": "RSGit\\app.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-04T06:01:12.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RunnerService.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\RunnerService.cs",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\RunnerService.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\RunnerService.cs",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\RunnerService.cs",
-              "ViewState": "AQIAACsBAAAAAAAAAAAAAKsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:48:41.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Resource.Designer.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Resource.Designer.cs",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\Resource.Designer.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Resource.Designer.cs",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\Resource.Designer.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:48:00.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Resource.resx",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Resource.resx",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\Resource.resx",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Resource.resx",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\Resource.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-04T02:47:56.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AppARM.config",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\AppARM.config",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\AppARM.config",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\AppARM.config",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\AppARM.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-04T02:44:54.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\App.config",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\App.config",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\App.config",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-04T02:44:46.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\Program.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\Program.cs",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:44:43.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "RunnerService.Designer.cs",
-              "DocumentMoniker": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\RunnerService.Designer.cs",
-              "RelativeDocumentMoniker": "..\\Runner.Service\\Windows\\RunnerService.Designer.cs",
-              "ToolTip": "C:\\Work\\irobotq\\probuct\\src\\\u7B2C\u4E09\u65B9\u7C7B\u5E93\\Git\\Runner.Service\\Windows\\RunnerService.Designer.cs",
-              "RelativeToolTip": "..\\Runner.Service\\Windows\\RunnerService.Designer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:45:20.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:01:12.492Z"
             }
           ]
         }
