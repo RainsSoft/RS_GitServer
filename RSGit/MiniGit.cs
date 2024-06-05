@@ -29,7 +29,7 @@ namespace RSGit
             CodeFolder = startpath;
         }
 
-        public string GitStateFile => Path.Combine(CodeFolder, ".git");
+        public string GitStateFile => Path.Combine(CodeFolder, KbGitDataFile);
 
         public void LoadState()
         {
@@ -160,7 +160,7 @@ namespace RSGit
             deletes.ForEach(x => Hd.Commits.Remove(x));
         }
 
-        internal void RawImportCommits(KeyValuePair<Id, CommitNode>[] commits, string branch, Branch branchInfo)
+        public void RawImportCommits(KeyValuePair<Id, CommitNode>[] commits, string branch, Branch branchInfo)
         {
             //Console.WriteLine("RawImportCommits");
 

@@ -22,6 +22,9 @@ namespace RSGit
 
         public Id PullBranch(Remote remote, string branch, MiniGit git)
         {
+#if DEBUG
+            Console.WriteLine(remote.Url + "?branch=" + branch);
+#endif
             var bytes = new HttpClient().GetByteArrayAsync(remote.Url + "?branch=" + branch).GetAwaiter().GetResult();
             var commits = ByteHelper.Deserialize<GitPullResponse>(bytes);
             git.RawImportCommits(commits.Commits, $"{remote.Name}/{branch}", commits.BranchInfo);

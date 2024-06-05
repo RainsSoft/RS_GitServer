@@ -18,7 +18,7 @@ namespace RSGit
             new GrammarLine("Delete a branch", new[] { "branch", "-D", "<branchname>"}, (git, args) => git.Branches.DeleteBranch(args[2])),
             new GrammarLine("List existing branches", new[] { "branch"}, (git, args) => git.Branches.ListBranches()),
             new GrammarLine("Garbage collect", new[] { "gc" }, (git, args) => { git.Gc(); }),
-            new GrammarLine("Start git as a git", new[] { "daemon", "<port>" }, (git, args) => { new MiniGitServer(git).StartDaemon(int.Parse(args[1])); }),
+            //new GrammarLine("Start git as a git", new[] { "daemon", "<port>" }, (git, args) => { new MiniGitServer(git).StartDaemon(int.Parse(args[1])); }),
             new GrammarLine("Pull code", new[] { "pull", "<remote-name>", "<branch>"}, (git, args) => { new MiniGitNetworkClient().PullBranch(git.Hd.Remotes.First(x => x.Name == args[1]), args[2], git);}),
             new GrammarLine("Push code", new[] { "push", "<remote-name>", "<branch>"}, (git, args) => { new MiniGitNetworkClient().PushBranch(git.Hd.Remotes.First(x => x.Name == args[1]), args[2], git.Hd.Branches[args[2]], null, git.GetReachableNodes(git.Hd.Branches[args[2]].Tip).ToArray()); }),
             new GrammarLine("Clone code from other server", new[] { "clone", "<url>", "<branch>"}, (git, args) => { new MiniGitNetworkClient().CloneBranch(git, "origin", args[1], args[2]); }),
@@ -33,7 +33,7 @@ namespace RSGit
                                                  && x.Grammar.Zip(cmdParams, (gramar, arg) => gramar.StartsWith("<") || gramar == arg).All(m => m));
 
             if (match == null)
-                return $"KBGit Help\r\n----------\r\ngit {string.Join("\r\ngit ", config.Select(x => $"{string.Join(" ", x.Grammar),-34} - {x.Explanation}."))}";
+                return $"MiniGit Help\r\n----------\r\ngit {string.Join("\r\ngit ", config.Select(x => $"{string.Join(" ", x.Grammar),-34} - {x.Explanation}."))}";
 
             git.LoadState();
             var result = match.ActionOnMatch(git, cmdParams);
