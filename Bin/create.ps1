@@ -1,7 +1,7 @@
 
 function CreateGitWithCommits()
 {
-    $git = "C:\src\Git\RS_GitServer\RSGitServer\bin\Debug\RSGitServer.exe"
+    $git = "C:\Work\irobotq\probuct\src\第三方类库\Git\RS_GitServer\Bin\RSGitServer.exe"
 	"init"
 	iex "$git init"
 
