@@ -12,6 +12,12 @@ namespace RSGitClient
     {
         public static void Main(string[] args)
         {
+#if DEBUG
+            //Test.PullBranch();
+            Test.CloneMaster();
+            Console.ReadLine();
+            return;
+#endif
             //args = new string[] { "daemon", "49750" };
             var output = new CommandLineHandling().Handle(new MiniGit(new DirectoryInfo(".").FullName), CommandLineHandling.Config, args);
             Console.WriteLine(output);
